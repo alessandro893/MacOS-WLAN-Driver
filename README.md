@@ -1,14 +1,21 @@
 # MacOS-WLAN-Driver
-
+--------------------
 Modified WLAN Drivers with tuned Country Code.
 
+
 Tuned:
+--------------------------
+
 -RU (Russia)
+
 -BY (Belarus)
+
 -KZ (Kazakhstan)
+
 -DE (Deutschland)
 
 802.11d WLAN country codes:
+--------------------------
 
 -all channels available
 
