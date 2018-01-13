@@ -3,16 +3,15 @@
 Modified WLAN Drivers with tuned Country Code.
 
 
-Tuned:
+MOD:
 --------------------------
+10.12
 
--RU (Russia)
+- Tuned: RU (Russia) / BY (Belarus) / KZ (Kazakhstan) / DE (Deutschland)
 
--BY (Belarus)
+10.13
 
--KZ (Kazakhstan)
-
--DE (Deutschland)
+- Hardcoded 'US' Country Code
 
 802.11d WLAN country codes:
 --------------------------
