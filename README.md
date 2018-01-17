@@ -23,7 +23,3 @@ MOD:
 -80mhz enabled on all 5ghz channels
 
 -unrestricted max tx power
-
-
-
-(I can unrestrict more country codes or add more drivers just contact me..)
