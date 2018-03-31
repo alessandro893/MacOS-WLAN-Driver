@@ -1,17 +1,7 @@
 # MacOS-WLAN-Driver
 --------------------
-Modified WLAN Drivers with tuned Country Code.
+Change your WLAN country code
 
-
-MOD:
---------------------------
-<=10.12
-
-- Tuned: RU (Russia) / BY (Belarus) / KZ (Kazakhstan) / DE (Deutschland)
-
->=10.13
-
-- Hardcoded 'US' Country Code
 
 802.11d WLAN country codes:
 --------------------------
@@ -27,7 +17,7 @@ MOD:
 
 
 
-Via Terminal (>=10.13):
+Mod (>=10.13):
 --------------------------
 
 GB:
