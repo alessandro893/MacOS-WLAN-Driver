@@ -1,7 +1,0 @@
-Hardcoded  'US' country code
-
-Replace driver:
-'/System/Library/Extensions/IO80211Family.kext/Contents/PlugIns/AirPortBrcmNIC.kext/Contents/MacOS/AirPortBrcmNIC'
-
-or whole kext:
-'/System/Library/Extensions/IO80211Family.kext/Contents/PlugIns/AirPortBrcmNIC.kext'
