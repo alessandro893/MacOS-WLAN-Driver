@@ -1,9 +1,10 @@
 # MacOS-WLAN-Driver
 --------------------
-Change your WLAN country code
+Change your WLAN country code.
 
+Compatible with MacOS X Mojave.
 
-802.11d WLAN country codes:
+802.11d WLAN country code:
 --------------------------
 
 -all channels available
