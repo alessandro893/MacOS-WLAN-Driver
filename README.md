@@ -26,7 +26,9 @@ Mod (>=10.13):
 Disable 'System Integrity Protection' (csrutil disable)
 
 
-2.
+2. 
+
+Run in terminal:
 
 GB (Great Britain) 240mw:
 --------------------------
