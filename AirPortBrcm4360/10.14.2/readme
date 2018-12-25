@@ -1,0 +1,10 @@
+Hardcoded 'US' country code.
+
+1. 
+Disable 'System Integrity Protection' (csrutil disable)
+
+2.
+Replace: '/System/Library/Extensions/IO80211Family.kext'
+
+3. 
+Rebuild Caches (run Kext Utility.app)
