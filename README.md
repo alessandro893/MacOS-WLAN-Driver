@@ -18,7 +18,8 @@ Compatible with MacOS X Mojave.
 
 
 
-Mod (>=10.13):
+Mod (10.13-10.14.3):
+(for >=10.14.4 use Modded 10.14.3 'IO80211Family.kext')
 --------------------------
 
 1.
