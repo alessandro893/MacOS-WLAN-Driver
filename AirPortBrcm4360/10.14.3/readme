@@ -1,4 +1,4 @@
-Hardcoded 'PA' (Panama) country code.
+Hardcoded 'US' (United States) country code.
 
 1. 
 Disable 'System Integrity Protection' (csrutil disable)
