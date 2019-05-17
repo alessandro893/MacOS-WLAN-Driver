@@ -16,7 +16,7 @@ Compatible with MacOS X Mojave.
 - 1000mw max tx power
 
 
-MacOS (>=10.14.4):
+MacOS (>=10.14.5):
 --------------------------
 Use Modded 10.14.3 'IO80211Family.kext':
 
