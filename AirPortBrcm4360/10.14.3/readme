@@ -8,6 +8,8 @@ https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-pro
 2.
 Replace: '/System/Library/Extensions/IO80211Family.kext'
 
+https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/AirPortBrcm4360/10.14.3/IO80211Family.kext.zip
+
 3. 
 Rebuild Caches (run Kext Utility.app)
 
