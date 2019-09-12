@@ -3,6 +3,8 @@ Hardcoded 'US' (United States) country code.
 1. 
 Disable 'System Integrity Protection' (csrutil disable)
 
+https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/
+
 2.
 Replace: '/System/Library/Extensions/IO80211Family.kext'
 
