@@ -4,6 +4,8 @@ Change your WLAN country code.
 
 Compatible with MacOS X Mojave.
 
+![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_spd.jpg)
+
 802.11d WLAN country code:
 --------------------------
 
@@ -15,6 +17,7 @@ Compatible with MacOS X Mojave.
 
 - 1000mw max tx power
 
+![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_info.jpg)
 
 MacOS 10.14.4-10.14.6
 --------------------------
