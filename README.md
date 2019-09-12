@@ -1,8 +1,7 @@
 # MacOS WLAN Driver for Broadcom 4360
 --------------------
-Change your WLAN country code.
 
-Compatible with MacOS X Mojave.
+Compatible with MacOS X Mojave ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_spd.jpg)
 
