@@ -39,4 +39,4 @@ sudo perl -pi -e 's|\x41\x83\xFC\xFF\x74\x35\x48\x8D\x55\xD0|\x66\xC7\x06\x55\x5
 
 Rebuild Caches (run Kext Utility.app):
 
-https://github.com/alessandro893/MacOS-WLAN-Driver/blob/master/Kext%20Utility.app.zip
+https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
