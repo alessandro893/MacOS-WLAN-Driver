@@ -1,7 +1,6 @@
 # MacOS WLAN Driver for Broadcom 4360
 --------------------
-
-Compatible with MacOS X Mojave ✅
+Compatible with MacOS Mojave ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_spd.jpg)
 
