@@ -29,6 +29,8 @@ MacOS (10.13-10.14.3):
 
 Disable 'System Integrity Protection' (csrutil disable)
 
+https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/
+
 2. 
 
 Run in terminal:
