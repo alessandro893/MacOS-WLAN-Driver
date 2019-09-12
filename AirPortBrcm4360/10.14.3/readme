@@ -8,3 +8,5 @@ Replace: '/System/Library/Extensions/IO80211Family.kext'
 
 3. 
 Rebuild Caches (run Kext Utility.app)
+
+https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
