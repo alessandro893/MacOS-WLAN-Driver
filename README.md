@@ -1,4 +1,4 @@
-# MacOS-WLAN-Driver
+# MacOS WLAN Driver for Broadcom 4360
 --------------------
 Change your WLAN country code.
 
