@@ -16,13 +16,14 @@ Compatible with MacOS X Mojave.
 - 1000mw max tx power
 
 
-MacOS (>=10.14.4):
+MacOS 10.14.4-10.14.6
 --------------------------
 Use Modded 10.14.3 'IO80211Family.kext':
 
 https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.14.3
 
-MacOS (10.13-10.14.3):
+
+MacOS 10.13-10.14.3
 --------------------------
 
 1.
