@@ -24,6 +24,7 @@ Use Modded 10.14.3 'IO80211Family.kext':
 https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.14.3
 
 
+
 10.13 - 10.14.3
 --------------------------
 
