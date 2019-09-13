@@ -17,14 +17,14 @@ Compatible with MacOS Mojave ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_info.jpg)
 
-MacOS 10.14.4-10.14.6
+10.14.4 - 10.14.6
 --------------------------
 Use Modded 10.14.3 'IO80211Family.kext':
 
 https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.14.3
 
 
-MacOS 10.13-10.14.3
+10.13 - 10.14.3
 --------------------------
 
 1.
