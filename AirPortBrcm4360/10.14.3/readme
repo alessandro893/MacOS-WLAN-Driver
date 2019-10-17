@@ -14,3 +14,32 @@ https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/AirPortBrcm4360/10
 Rebuild Caches (run Kext Utility.app)
 
 https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
+
+
+Mac OS Catalina
+---------------
+
+1. 
+Disable 'System Integrity Protection' (csrutil disable)
+
+https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/
+
+2.
+Remount hdd as with read-write permissions: 
+
+sudo mount -uw /
+
+3.
+Delete old kext via terminal:
+
+sudo rm -rf /System/Library/Extensions/IO80211Family.kext
+
+4.
+Copy new kext:
+
+sudo cp -R /path-TO-kext/IO80211Family.kext /System/Library/Extensions
+
+5. 
+Rebuild Caches (run Kext Utility.app)
+
+https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
