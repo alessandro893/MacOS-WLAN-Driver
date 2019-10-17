@@ -1,6 +1,6 @@
 # MacOS WLAN Driver for Broadcom 4360
 --------------------
-Compatible with MacOS Mojave ✅
+Compatible with MacOS Catalina ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_spd.jpg)
 
@@ -17,7 +17,7 @@ Compatible with MacOS Mojave ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_info.jpg)
 
-10.14.4 - 10.14.6
+10.14.4 - 10.15
 --------------------------
 Use Modded 10.14.3 'IO80211Family.kext':
 
