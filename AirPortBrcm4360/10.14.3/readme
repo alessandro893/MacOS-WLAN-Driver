@@ -1,5 +1,8 @@
 Hardcoded 'US' (United States) country code.
 
+
+Mac OS Mojave
+--------------------------
 1. 
 Disable 'System Integrity Protection' (csrutil disable)
 
@@ -16,8 +19,9 @@ Rebuild Caches (run Kext Utility.app)
 https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
 
 
+
 Mac OS Catalina
----------------
+--------------------------
 
 1. 
 Disable 'System Integrity Protection' (csrutil disable)
