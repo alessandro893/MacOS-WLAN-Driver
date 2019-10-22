@@ -1,6 +1,6 @@
 # MacOS WLAN Driver for Broadcom 4360
 --------------------
-Compatible with MacOS Catalina ✅
+Compatible with Mac OS X Catalina ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_spd.jpg)
 
