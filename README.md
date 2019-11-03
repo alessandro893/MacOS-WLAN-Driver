@@ -17,7 +17,7 @@ Compatible with Mac OS X Catalina ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_info.jpg)
 
-10.14.4 - 10.15
+10.14 - 10.15
 --------------------------
 Use Modded 10.14.3 'IO80211Family.kext':
 
@@ -25,7 +25,7 @@ https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/1
 
 
 
-10.13 - 10.14.3
+10.13
 --------------------------
 
 1.
@@ -42,6 +42,9 @@ sudo perl -pi -e 's|\x41\x83\xFC\xFF\x74\x35\x48\x8D\x55\xD0|\x66\xC7\x06\x55\x5
 
 3.
 
-Rebuild Caches (run Kext Utility.app):
+Rebuild Caches & repair permissions
 
-https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
+sudo chmod -Rf 755 /System/Library/Extensions/IO80211Family.kext
+sudo chown -Rf 0:0 /System/Library/Extensions/IO80211Family.kext
+sudo touch /System/Library/Extensions
+sudo kextcache -i /
