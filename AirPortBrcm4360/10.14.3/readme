@@ -44,6 +44,9 @@ Copy new kext:
 sudo cp -R /path-TO-kext/IO80211Family.kext /System/Library/Extensions
 
 5. 
-Rebuild Caches (run Kext Utility.app)
+Rebuild Caches & repair permissions
 
-https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
+sudo chmod -Rf 755 /System/Library/Extensions/IO80211Family.kext
+sudo chown -Rf 0:0 /System/Library/Extensions/IO80211Family.kext
+sudo touch /System/Library/Extensions
+sudo kextcache -i /
