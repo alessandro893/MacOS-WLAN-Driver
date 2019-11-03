@@ -19,7 +19,12 @@ Compatible with Mac OS X Catalina ✅
 
 10.14 - 10.15
 --------------------------
-Use Modded 10.14.3 'IO80211Family.kext':
+Easy install:
+
+https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/App
+
+
+Manual install:
 
 https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.14.3
 
