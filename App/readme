@@ -1,8 +1,15 @@
 WLAN driver installer App
 
+1.
 Disable 'System Integrity Protection' (csrutil disable)
 
 https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/
+
+2.
+Run App, enter root password, and wait few minutes for kext caches rebuilding
+
+3. 
+reboot
 
 
 App create backups under: 
