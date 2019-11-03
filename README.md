@@ -17,7 +17,7 @@ Compatible with Mac OS X Catalina ✅
 
 ![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/wlan_info.jpg)
 
-10.14 - 10.15
+10.14 - 10.15.1
 --------------------------
 Easy install:
 
