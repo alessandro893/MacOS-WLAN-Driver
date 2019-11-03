@@ -14,9 +14,12 @@ Replace: '/System/Library/Extensions/IO80211Family.kext'
 https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/AirPortBrcm4360/10.14.3/IO80211Family.kext.zip
 
 3. 
-Rebuild Caches (run Kext Utility.app)
+Rebuild Caches & repair permissions
 
-https://github.com/alessandro893/MacOS-WLAN-Driver/raw/master/Kext%20Utility.app.zip
+sudo chmod -Rf 755 /System/Library/Extensions/IO80211Family.kext
+sudo chown -Rf 0:0 /System/Library/Extensions/IO80211Family.kext
+sudo touch /System/Library/Extensions
+sudo kextcache -i /
 
 
 
