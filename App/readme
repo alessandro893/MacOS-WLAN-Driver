@@ -5,4 +5,6 @@ Disable 'System Integrity Protection' (csrutil disable)
 https://www.macworld.co.uk/how-to/mac/how-turn-off-mac-os-x-system-integrity-protection-rootless-3638975/
 
 
-App create backups under: Wlan fix.app/Contents/MacOS/backup
+App create backups under: 
+
+Wlan fix.app/Contents/MacOS/backup
