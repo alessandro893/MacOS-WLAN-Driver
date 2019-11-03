@@ -1,10 +1,5 @@
 WLAN driver installer App
 
+(Disable csrutil before using an App)
 
-Disable csrutil before using an App
-
-
-
-
-App create backups under:
-Wlan fix.app/Contents/MacOS/backup
+App create backups under: Wlan fix.app/Contents/MacOS/backup
