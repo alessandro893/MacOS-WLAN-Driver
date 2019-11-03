@@ -35,3 +35,10 @@ https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/1
 --------------------------
 
 https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.13.5
+
+
+
+
+10.12
+--------------------------
+https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/AirPortBrcm4360/10.12.6
