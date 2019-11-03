@@ -21,7 +21,7 @@ Compatible with Mac OS X Catalina ✅
 --------------------------
 Easy install:
 
-https://github.com/alessandro893/MacOS-WLAN-Driver/tree/master/App
+https://github.com/alessandro893/MacOS-WLAN-Driver/releases/latest
 
 
 Manual install:
