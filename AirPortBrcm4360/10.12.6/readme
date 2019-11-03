@@ -1,0 +1,13 @@
+1.
+replace /System/Library/Extensions/IO80211Family.kext/Contents/PlugIns/AirPortBrcm4360.kext/Contents/MacOS/AirPortBrcm4360
+
+2.
+Rebuild Caches & repair permissions
+
+sudo chmod -Rf 755 /System/Library/Extensions/IO80211Family.kext
+
+sudo chown -Rf 0:0 /System/Library/Extensions/IO80211Family.kext
+
+sudo touch /System/Library/Extensions
+
+sudo kextcache -i /
