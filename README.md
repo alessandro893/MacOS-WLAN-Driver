@@ -50,6 +50,9 @@ sudo perl -pi -e 's|\x41\x83\xFC\xFF\x74\x35\x48\x8D\x55\xD0|\x66\xC7\x06\x55\x5
 Rebuild Caches & repair permissions
 
 sudo chmod -Rf 755 /System/Library/Extensions/IO80211Family.kext
+
 sudo chown -Rf 0:0 /System/Library/Extensions/IO80211Family.kext
+
 sudo touch /System/Library/Extensions
+
 sudo kextcache -i /
