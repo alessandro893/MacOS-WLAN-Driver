@@ -10,8 +10,3 @@ Run App, enter root password, and wait few minutes for kext caches rebuilding
 
 3. 
 reboot
-
-
-App create backups under: 
-
-Wlan fix.app/Contents/MacOS/backup
