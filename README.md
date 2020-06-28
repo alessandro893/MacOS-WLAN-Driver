@@ -2,7 +2,7 @@
 --------------------
 Compatible with Mac OS X Catalina ✅
 
-![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/img/wlan_spd.jpg)
+![alt text](https://raw.githubusercontent.com/alessandro893/MacOS-WLAN-Driver/master/img/spd.jpg)
 
 802.11d WLAN country code:
 --------------------------
